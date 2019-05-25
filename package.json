@@ -11,6 +11,14 @@
         "Themes"
     ],
     "icon": "icon.png",
+    "homepage": "https://github.com/rogeraabbccdd/vscode-dark-red/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rogeraabbccdd/vscode-dark-red/"
+    },
+    "bugs": {
+        "url": "https://github.com/rogeraabbccdd/vscode-dark-red/issues"
+    },
     "contributes": {
         "themes": [
             {
