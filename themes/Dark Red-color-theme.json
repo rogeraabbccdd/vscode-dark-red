@@ -2,7 +2,7 @@
 	"name": "Dark Red",
 	"type": "dark",
 	"colors": {
-		"activityBar.background": "#000000a0",
+		"activityBar.background": "#000000d0",
 		"activityBar.border": "#f50000",
 		"activityBar.foreground": "#fff",
 		"activityBarBadge.background": "#B9090B",
@@ -56,7 +56,7 @@
 		"tab.hoverBorder": "#5f0d0d2c",
 		"tab.inactiveBackground": "#5f0d0d08",
 		"tab.inactiveForeground": "#fafafa",
-		"terminal.background": "#000000c0",
+		"terminal.background": "#000000d0",
 		"titleBar.activeBackground": "#000000a0",
 		"titleBar.activeForeground": "#fafafa",
 		"titleBar.border": "#f50000",
@@ -75,7 +75,10 @@
 		"settings.modifiedItemIndicator": "#f50000",
 		"input.background": "#000000",
 		"statusBar.border":"#f50000",
-		"statusBar.background": "#000000a0",
+		"statusBar.background": "#000000d0",
+		"terminal.border": "#f50000",
+		"panel.background": "#000000d0",
+		"panelTitle.activeBorder": "#f50000",
 	},
 	"tokenColors": [
 		{

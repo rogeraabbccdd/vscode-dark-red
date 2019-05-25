@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "dark-red-theme" extension will be documented in this file.
+## 1.0.0
+- Initial release 🎉
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.1
+- Update readme links.
 
-## [Unreleased]
+## 1.0.2
+- Update readme links.
 
-- Initial release
+## 1.0.3
+- Update terminal panel color.
