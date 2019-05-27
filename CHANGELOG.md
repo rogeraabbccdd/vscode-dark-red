@@ -11,3 +11,7 @@
 
 ## 1.0.3
 - Update terminal panel color.
+
+## 1.0.4
+- Add `Dracula` tokenColors without italic fonts.
+- Update dropdown menu color.

@@ -2,7 +2,7 @@
     "name": "dark-red-theme",
     "displayName": "Dark Red Theme",
     "description": "Dark red theme for vscode with transparency build support",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.34.0"
     },
