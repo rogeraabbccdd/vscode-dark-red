@@ -18,3 +18,6 @@
 
 ## 1.0.5
 - Change sidebar and activebar background.
+
+## 1.0.6
+- Fix some `Dracula` tokenColors.
