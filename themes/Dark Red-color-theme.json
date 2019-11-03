@@ -81,7 +81,9 @@
 		"panelTitle.activeBorder": "#f50000",
     "panel.border":"#f50000",
     "dropdown.listBackground": "#000000dd",
-    "dropdown.background":"#3c3c3cdd"
+    "dropdown.background":"#3c3c3cdd",
+    "activityBar.activeBorder": "#f50000",
+    "activityBar.activeBackground": "#000000dd",
 	},
 	"tokenColors": [
     {
