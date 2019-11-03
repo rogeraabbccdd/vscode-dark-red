@@ -21,3 +21,6 @@
 
 ## 1.0.6
 - Fix some `Dracula` tokenColors.
+
+## 1.0.7
+- Add `activityBar.activeBorder` and `activityBar.activeBackground` for VSCode 1.40 update.
